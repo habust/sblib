@@ -37,5 +37,5 @@ conan_ensure()
 
 
 add_subdirectory(client)
-add_subdirectory(test-client-build)
+
 add_subdirectory(client-tests)
